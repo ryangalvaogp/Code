@@ -1,4 +1,4 @@
-@@ -0,0 +1,52 @@
+
 // modifique com as suas configurações
 
 module.exports = {
