@@ -1,6 +1,0 @@
-﻿Method,Rota,Name
-Get,projetos,Listar Projetos
-Post,projetos,Criar Projeto
-Post,projetos/{id},Listar Projeto Específico
-Put,projetos/carrousel/{id},Definir projeto para carrousel
-Delete,projetos/{id},Deletar Usuário

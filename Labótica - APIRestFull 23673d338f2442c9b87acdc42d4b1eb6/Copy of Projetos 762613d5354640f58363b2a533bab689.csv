@@ -1,5 +1,0 @@
-﻿Method,Rota,Name
-Get,post,Listar Postagens
-Post,post,Criar uma Postagem
-Get,files/posts/{filename},Obter imagem de um post
-Delete,post/{id},Deletar Post

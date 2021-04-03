@@ -1,4 +1,0 @@
-﻿Method,Rota,Name
-Get,projetos/images,Listar Todas Imagens de Projetos
-Post,projetos/images/{id},Listar Imagens de um projeto específico
-Put,projetos/images/default/{id},Definir Imagem Padrão
