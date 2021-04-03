@@ -1,0 +1,6 @@
+﻿Method,Rota,Name
+Get,usuarios,Listar Usuários
+Post,usuarios,Criar Usuário
+Put,usuarios/{id},Alterar Dados do Usuário
+Put,usuarios/{id},Alterar Password
+Delete,usuarios/{id},Deletar Usuário

@@ -1,0 +1,10 @@
+﻿Method,Rota,Name
+Get,views/post/allposts/Alunos,Listar todos os posts dos Alunos
+Get,views/post/allposts/professores,Listar todos os posts dos Professores
+Get,views/user/allalunos,Listar Todos os Alunos
+Get,views/user/allprofessores,Listar Todos os Professores
+Get,views/projeto/imagedefault,Listar Projetos e Imagem padrão
+Get,views/projeto/carrousel,Listar imagens para carrousel
+Post,views/user/projeto/{id},Listar Projetos do Usuário
+Post,views/projeto/images/{id},Listar Imagens do Projeto
+Post,views/user/posts/{id},Listar Posts do Usuário
